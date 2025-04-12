@@ -1,3 +1,9 @@
+
+![432560357-6bb1a9ed-1553-4944-8ce1-77af15f69305](https://github.com/user-attachments/assets/132c52db-e891-4b3d-8ec0-7c984496e141)
+![432560280-28ed0571-a77c-4c3e-b49f-92a1f03edbde](https://github.com/user-attachments/assets/f8249274-dc90-437a-971c-276ab6d97e70)
+
+
+
 # Server Statistics Dashboard
 
 Interactive dashboard for displaying server statistics with modern design and additional features.
